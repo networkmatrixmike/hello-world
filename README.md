@@ -1,2 +1,5 @@
 # hello-world
-first repo
+
+Hi dudes!
+
+This is my test project run.
